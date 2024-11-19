@@ -1,16 +1,21 @@
-## Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/520737774031339531)](https://discord.com/users/520737774031339531)
 
-<!--
-**repiek/repiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://github.com/user-attachments/assets/33e604b7-ef1b-464c-b3fa-cd8c627a0b5d)
 
-Here are some ideas to get you started:
+<h1 align="center">Keiper</h1>
+<div align="center">
+  <p>
+    <!-- credits: vast -->
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=repiek&countColor=%23000000" alt="Profile Views"/>
+      <img height="25" src="https://img.shields.io/github/followers/repiek?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+      <img height="25" src="https://img.shields.io/github/stars/repiek?color=000000&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+    </div>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=repiek&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
+</p>
+
+![footer](https://github.com/user-attachments/assets/41a0e817-5cde-47c5-a28a-626074549b8f)
