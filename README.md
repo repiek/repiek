@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=repiek&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=repiek&title_color=000000&text_color=9f9f9f&icon_color=000000&bg_color=00000000&hide_border=true&hide_title=true&show_icons=true&count_private=true" />
 </p>
 
 ![footer](https://github.com/user-attachments/assets/41a0e817-5cde-47c5-a28a-626074549b8f)
