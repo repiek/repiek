@@ -5,7 +5,6 @@
 <h1 align="center">Keiper</h1>
 <div align="center">
   <p>
-    <!-- credits: vast -->
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=repiek&countColor=%23000000" alt="Profile Views"/>
       <img height="25" src="https://img.shields.io/github/followers/repiek?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
@@ -15,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=repiek&title_color=000000&text_color=9f9f9f&icon_color=000000&bg_color=00000000&hide_border=true&hide_title=true&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=repiek&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
 </p>
 
 ![footer](https://github.com/user-attachments/assets/41a0e817-5cde-47c5-a28a-626074549b8f)
